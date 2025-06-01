@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600mm"
+   height="900mm"
+   viewBox="0 0 1600 900"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="frontend.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.15768098"
+     inkscape:cx="2891.9151"
+     inkscape:cy="1801.105"
+     inkscape:window-width="1648"
+     inkscape:window-height="961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect9"
+       style="vector-effect:non-scaling-stroke;fill:#015b31;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       d="M 3.4395833,0 H 1596.5604 C 1598.4659,0 1600,1.5340542 1600,3.4395833 V 896.56042 c 0,1.90553 -1.5341,3.43958 -3.4396,3.43958 H 3.4395833 C 1.5340542,900 0,898.46595 0,896.56042 V 3.4395833 C 0,1.5340542 1.5340542,0 3.4395833,0 Z" />
+    <path
+       id="rect2"
+       style="fill:#0b3820;stroke:#000000;stroke-width:0.249728"
+       d="m 1264.0197,180.12486 h 274.4121 c 16.62,0 30,13.38 30,30 v 139.75028 c 0,16.62 -13.38,30 -30,30 h -274.4121 c -16.62,0 -30,-13.38 -30,-30 V 210.12486 c 0,-16.62 13.38,-30 30,-30 z" />
+    <path
+       id="rect4"
+       style="fill:#0b3820;stroke:#000000;stroke-width:0.249728"
+       d="m 1264.0197,420.12485 h 274.4121 c 16.62,0 30,13.38 30,30 v 139.75027 c 0,16.62 -13.38,30 -30,30 h -274.4121 c -16.62,0 -30,-13.38 -30,-30 V 450.12485 c 0,-16.62 13.38,-30 30,-30 z" />
+    <path
+       id="rect5"
+       style="fill:#0b3820;stroke:#000000;stroke-width:0.249728"
+       d="m 1264.0197,660.12488 h 274.4121 c 16.62,0 30,13.38 30,30 v 139.75027 c 0,16.62 -13.38,30 -30,30 h -274.4121 c -16.62,0 -30,-13.38 -30,-30 V 690.12488 c 0,-16.62 13.38,-30 30,-30 z" />
+    <path
+       id="rect6"
+       style="fill:#74310d;stroke:#000000;stroke-width:0.208925"
+       d="m 1254.994,20.104462 h 292.4633 c 11.6312,0 20.9949,9.36372 20.9949,20.994888 v 97.80138 c 0,11.63116 -9.3637,20.99488 -20.9949,20.99488 H 1254.994 c -11.6311,0 -20.9949,-9.36372 -20.9949,-20.99488 V 41.09935 c 0,-11.631168 9.3638,-20.994888 20.9949,-20.994888 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3607px;font-family:Futura;-inkscape-font-specification:Futura;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.291499"
+       x="1405.4349"
+       y="77.659836"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3607px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss03';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.291499"
+         x="1405.4349"
+         y="77.659836">Anstehende</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.3607px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss03';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.291499"
+         x="1405.4349"
+         y="139.3607"
+         id="tspan2">Termine</tspan></text>
+    <path
+       id="rect10"
+       style="vector-effect:non-scaling-stroke;fill:#0b3820;stroke:#000000;stroke-width:0.251976;-inkscape-stroke:hairline"
+       d="M 86.888893,20 H 513.11111 C 550.16755,20 580,49.832446 580,86.888893 V 813.11111 C 580,850.16755 550.16755,880 513.11111,880 H 86.888893 C 49.832446,880 20,850.16755 20,813.11111 V 86.888893 C 20,49.832446 49.832446,20 86.888893,20 Z" />
+    <path
+       id="rect11"
+       style="vector-effect:non-scaling-stroke;fill:#0b3820;stroke:#000000;stroke-width:0.140312;-inkscape-stroke:hairline"
+       d="m 654.06282,613.33002 h 470.81598 c 24.704,0 44.592,19.88803 44.592,44.592 v 177.48589 c 0,24.70397 -19.888,44.592 -44.592,44.592 H 654.06282 c -24.70396,0 -44.59199,-19.88803 -44.59199,-44.592 V 657.92202 c 0,-24.70397 19.88803,-44.592 44.59199,-44.592 z" />
+    <path
+       id="rect12"
+       style="vector-effect:non-scaling-stroke;fill:#0b3820;stroke:#000000;stroke-width:0.205737;-inkscape-stroke:hairline"
+       d="m 654.592,20 h 470.816 C 1150.112,20 1170,39.888032 1170,64.591999 V 548.73802 c 0,24.70397 -19.888,44.592 -44.592,44.592 H 654.592 c -24.70397,0 -44.592,-19.88803 -44.592,-44.592 V 64.591999 C 610,39.888032 629.88803,20 654.592,20 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.3958px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss03';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.238524;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       x="1251.8102"
+       y="219.33211"
+       id="text13"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.3958px;font-family:'Droid Sans Hebrew';-inkscape-font-specification:'Droid Sans Hebrew Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.238524"
+         x="1251.8102"
+         y="219.33211"
+         id="tspan17">Elektro-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.3958px;font-family:'Droid Sans Hebrew';-inkscape-font-specification:'Droid Sans Hebrew Semi-Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.238524"
+         x="1251.8102"
+         y="258.57684"
+         id="tspan19">bereichseinweisung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.0241px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss03';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.172002;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       x="1252.7349"
+       y="304.52225"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.172002"
+         x="1252.7349"
+         y="304.52225">22.06.25</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.172002"
+         x="1252.7349"
+         y="345.8024"
+         id="tspan15">18:00</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.172002"
+         x="1252.7349"
+         y="387.08258"
+         id="tspan16" /></text>
+  </g>
+</svg>
